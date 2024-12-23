@@ -82,7 +82,7 @@ El proyecto proporciona un sistema para gestionar productos. Cada producto tiene
 
 ## 6. Historia
 
-- **Versión 1.0 (17-12-2024)**: 
+- **Versión 1.0 (23-12-2024)**: 
   - Lanzamiento inicial
 
 ## 7. Créditos y atribuciones
